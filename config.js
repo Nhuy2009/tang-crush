@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Bạn à!',
+    introTitle: 'Cương à!',
     introDesc: `Thế giới có 7 tỉ người mà sao mày chỉ iu mình tao`,
     btnIntro: 'hihi',
     title: 'Phải chăng mày đã yêu ngay từ cái nhìn đầu tiên 😙',
